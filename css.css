@@ -1,0 +1,34 @@
+<style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: gray;
+    }
+    
+    .container {
+        max-width: 600px;
+      margin:  auto;
+      padding: 1;
+      background-color: hotpink;
+      border-radius: 1px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+    
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+    
+    .info {
+      margin-bottom: 20px;
+    }
+    
+    .label {
+      font-weight: bold;
+    }
+    
+    .restaurant img {
+      max-width: 10%;
+      height: 10%;
+      margin-bottom: 1px;
+    }
+  </style>
